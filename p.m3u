@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="http://i.imgur.com/gDHSHwM.png" group-title="CANAIS: ESPORTE",SporTV
+http://95.216.146.0/loadbalance/sportvhd/chunks.m3u8?pxAuth=Tjz7FbyllbXoxz14oEBegSD6ipvxMdYt
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS: FILMES/SERIES",Telecine Pipoca
+http://89.46.101.200:8081/live/master18/chunks.m3u8?nimblesessionid=3391572&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yLzIwMTggMjo1OToxNyBQTSZoYXNoX3ZhbHVlPXkxOFdFWldPMllGc0x6dGxtRXZOTVE9PSZ2YWxpZG1pbnV0ZXM9MTA=
